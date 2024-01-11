@@ -1,5 +1,4 @@
-# Auth Series #2 - Protect ASP.NET Core Api with Azure Entra ID
-
+# Auth Series #2 - Protect ASP.NET Core Api with Azure Entra ID and Access It via Postman
 
 
 
